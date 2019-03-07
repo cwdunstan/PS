@@ -1,4 +1,4 @@
-﻿#MoveScan3.0 Made by Charlie and Simon for the Techroom Server.
+﻿#MoveScan3.0 Made by Charlie for use on the Techroom Server.
 
 $jpgcount=0
 $pdfcount=0
