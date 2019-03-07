@@ -1,0 +1,45 @@
+body{
+margin:0px;
+}
+h1{
+ text-align:center;
+ font-family:arial;
+ font-size:3em;
+ color:white;
+ margin:auto;
+}
+#h1wrap{
+ height:15%;
+ width: 100%;
+ border-bottom:thin solid black;
+ background-color: #00a4ef;
+display:flex;
+}
+
+h2{
+ text-align:center;
+ font-family:arial;
+ padding:10px;
+}
+
+table {
+  border-collapse: collapse;
+  font-family: arial;
+  width:80%;
+  margin:auto;
+  cursor:default;
+}
+
+
+td {
+	font-size:1em;
+	padding:10px;
+}
+th{
+	background-color: #00a4ef;
+	color:white;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+
